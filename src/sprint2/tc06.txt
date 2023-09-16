@@ -1,6 +1,6 @@
 james has done tc6
 
-james added tc6 to the smpke suite
+james added tc6 to the smoke suite
 
 ..
 ..
